@@ -5,7 +5,9 @@ Se trabajó en un análisis de reviews de Yelp. Para ello, se buscó algún crit
 -	tópicos por negocio;
 -	sentimientos de cada review;
 -	entidades por review;
--	negocios con más cantidad de reviews positivas y negativas;
+-	negocios con más cantidad de reviews positivas; 
+-	negocios con más cantidad de reviews negativas;
 -	tópicos asociados a sentimientos;
 -	keywords asociados a sentimientos;
 -	sentimientos a lo largo del tiempo y mucho más.
+
